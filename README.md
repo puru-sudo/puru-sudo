@@ -18,12 +18,10 @@ My Name is Parul.
  
  
  <br>
-<h2> Tech Stack : Front-End  <img src = "https://acegif.com/wp-content/uploads/loading-42.gif" width = 5% align = "center"> </h2>
+<h2> Skills </h2>
 <div style="display:flex">
-  <img  src ='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-  <img  src ='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
-  <img  src ='https://img.shields.io/badge/Vanilla JS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
-  <img  src ='https://img.shields.io/badge/React JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
+  <h3> Cloud Technologies : <img src = 'https://camo.githubusercontent.com/94eabb30ff94e49a643e5df62237c8e7e7965a6c19f6b40bad30f2501d79ff3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417a75726520636c6f75642d3030383944363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d617a757265266c6f676f436f6c6f723d7768697465'></h3>
+  
   
   
  </div>
@@ -41,21 +39,6 @@ My Name is Parul.
   <img  src ='https://img.shields.io/badge/Postman-ED7722?style=for-the-badge&logo=postman&logoColor=white'>
   
  </div>
- 
- 
- 
- 
-  <br>
-<h2> Cloud / Operations <img src = "ezgif.com-gif-maker (4).gif" width = 5% align = "center"> </h2>
-<div style="display:flex">
-  
-  <img  src ='https://img.shields.io/badge/Azure cloud-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white'>
-  <img  src ='https://img.shields.io/badge/Google cloud-ED7755?style=for-the-badge&logo=google-cloud&logoColor=white'>
-  <img  src ='https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F87156'>
-  <img  src ='https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white'>
- </div>
- 
-  <br>
 
  
 
