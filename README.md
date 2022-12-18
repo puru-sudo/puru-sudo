@@ -20,7 +20,7 @@ My Name is Parul.
 <div style="display:flex">
   <h3> SCM Tools : <img src = "https://img.shields.io/badge/github-323330?style=for-the-badge&logo=github&logoColor=F7DF1E" align = "center"> </h3>
   <h3> CI/CD Tool : <img src = "https://img.shields.io/badge/jenkins-blue?style=for-the-badge&logo=jenkins&logoColor=black" align = "center"> </h3>
-  <h3> Containerization Tools : Docker , Kubernetes </h3>
+  <h3> Containerization Tools : <img  src ='https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white' align = "center"> , <img  src ='https://img.shields.io/badge/kubernetes-white?style=for-the-badge&logo=kubernetes&logoColor=blue' align = "center"> </h3>
   <h3> Operating System : Linux, Windows </h3>
   <h3> Configuration Management : Ansible </h3>
   <h3> Cloud Technologies : Azure </h3>
