@@ -1,7 +1,7 @@
 # Hi Humans
 
 
-My Name is Parul. (<b>Alias Name : </b>@puru-sudo<img src = "https://www.pinterest.com/pin/amazing-itachi-fanart-in-2021--603200943840573493/" width = 5% align = "center">) use this handle to find me on social platforms. 
+My Name is Parul. (<b>Alias Name : </b>@puru-sudo<img src = "https://www.pinterest.com/pin/amazing-itachi-fanart-in-2021--603200943840573493/" align = "center">) use this handle to find me on social platforms. 
 
 - 💬 Ask me about DevOps, Networking.
 - 📫 You can reach me on any social media platform by using @puru-sudo
