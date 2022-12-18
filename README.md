@@ -16,13 +16,19 @@ My Name is Parul.
   
  </div>
  
+ <h2> DevOps <img src = "https://img.shields.io/badge/DevOps-1572B6?style=for-the-badge&logo=DevOps&logoColor=white" align = "center"> </h2>
+<div style="display:flex">
+  <img  src ='https://img.shields.io/badge/Python-ED8F22?style=for-the-badge&logo=python&logoColor=white'>
+  <img  src ='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'>
+  <img  src ='https://img.shields.io/badge/Java-14354C?style=for-the-badge&logo=coffeescript&logoColor=white'>
+  
+ </div>
+ 
  
  <br>
 <h2> DevOps <img src = "https://img.shields.io/badge/DevOps-1572B6?style=for-the-badge&logo=DevOps&logoColor=white" align = "center"></h2>
 <div style="display:flex">
   <h3> SCM Tools : Git </h3>
-  
-  <br>
   
   <h3> Cloud Technologies : &nbsp; <img src = "https://camo.githubusercontent.com/94eabb30ff94e49a643e5df62237c8e7e7965a6c19f6b40bad30f2501d79ff3a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417a75726520636c6f75642d3030383944363f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d617a757265266c6f676f436f6c6f723d7768697465" align = "center"></h3>
   
