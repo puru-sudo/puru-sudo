@@ -61,5 +61,5 @@ My Name is Parul.
 
  <h2>Github Stats <img src="https://aoenexus.com/assets/loader.gif" width= 2% ></h2>
  
- | ![Parul's github stats](https://github-readme-stats.vercel.app/api?username=puru-sudos&show_icons=true&theme=dark) | ![Parul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=puru-sudo&theme=dark) |
+ | ![Parul's github stats](https://github-readme-stats.vercel.app/api?username=puru-sudo&show_icons=true&theme=dark) | ![Parul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=puru-sudo&theme=dark) |
 | --- | --- |
