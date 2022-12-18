@@ -1,7 +1,7 @@
 # Hi Humans
 
 
-My Name is Saurabh (<b>Alias Name : </b>@GrimInSpecs<img src = "https://static.wikia.nocookie.net/flyordieio/images/5/55/Grim-reaper-GIF.gif/revision/latest?cb=20220105130844" width = 5% align = "center">) use this handle to find me on social platforms. 
+My Name is Parul.
 
 - 💬 Ask me about Web Pentesting , FullStack Development , Networking.
 - 📫 You can reach me on any social media platform by using @griminside
@@ -61,5 +61,5 @@ My Name is Saurabh (<b>Alias Name : </b>@GrimInSpecs<img src = "https://static.w
 
  <h2>Github Stats <img src="https://aoenexus.com/assets/loader.gif" width= 2% ></h2>
  
- | ![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=griminspecs&show_icons=true&theme=dark) | ![Saurabh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=griminspecs&theme=dark) |
+ | ![Parul's github stats](https://github-readme-stats.vercel.app/api?username=puru-sudos&show_icons=true&theme=dark) | ![Parul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=puru-sudo&theme=dark) |
 | --- | --- |
