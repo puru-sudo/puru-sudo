@@ -15,7 +15,7 @@ My Name is Parul.
  
  <br>
  
- <h2> DevOps <img src = "https://img.shields.io/badge/DevOps-1572B6?style=for-the-badge&logo=DevOps&logoColor=white" align = "center"> </h2>
+ <h2> DevOps </h2>
 <div style="display:flex">
   
  </div>
