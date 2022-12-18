@@ -18,8 +18,8 @@ My Name is Parul.
  
  <h2> DevOps </h2>
 <div style="display:flex">
-  <h3> SCM Tools : GitHub <img src = "https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=GitHub&logoColor=F87156"> </h3>
-  <h3> CI/CD Tool : Jenkins <img src = "https://img.shields.io/badge/jenkins-blue?style=for-the-badge&logo=jenkins&logoColor=black"> </h3>
+  <h3> SCM Tools : GitHub <img src = "https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=GitHub&logoColor=F87156" align = "center"> </h3>
+  <h3> CI/CD Tool : Jenkins <img src = "https://img.shields.io/badge/jenkins-blue?style=for-the-badge&logo=jenkins&logoColor=black" align = "center"> </h3>
   <h3> Containerization Tools : Docker , Kubernetes </h3>
   <h3> Operating System : Linux, Windows </h3>
   <h3> Configuration Management : Ansible </h3>
