@@ -4,7 +4,7 @@
 My Name is Parul.
 
 - 💬 Ask me about DevOps, Networking.
-- 📫 You can reach me on any social media platform by using @
+- 📫 You can reach me on any social media platform by using @puru-sudo
 - 😄 Fun fact: 2+1 = 11 
 
 <br>
