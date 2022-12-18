@@ -10,7 +10,7 @@ My Name is Parul. (<b>Alias Name : </b>[@puru-sudo](http://puru_sudo.bio.link/) 
 <br>
 <h2> Programming Languages <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 4% align = "center"> </h2>
 <div style="display:flex">
-  <img  src ='https://img.shields.io/badge/Python-ED8F22?style=for-the-badge&logo=python&logoColor=white' &nbsp;>
+  <img  src ='https://img.shields.io/badge/Python-ED8F22?style=for-the-badge&logo=python&logoColor=white'> &nbsp;
   <img  src ='https://img.shields.io/badge/Bash-00599C?style=for-the-badge&logo=Bash&logoColor=white'>
  </div>
  
