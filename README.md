@@ -21,7 +21,6 @@ My Name is Parul.
 <h2> DevOps <img src = "https://img.shields.io/badge/DevOps-1572B6?style=for-the-badge&logo=DevOps&logoColor=white" width = 4% align = "center"></h2>
 <div style="display:flex">
   <h3> SCM Tools : &nbsp; <img src = "https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F87156" align = "center"></h3>
-  <h3> Git : &nbps; <img src = "https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=F87156" align = "center"></h3>
   
   <br>
   
