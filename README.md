@@ -1,7 +1,7 @@
 # Hi Humans
 
 
-My Name is Parul. (<b>Alias Name : </b>[@puru-sudo](http://puru_sudo.bio.link/)) use this handle to find me on social platforms. 
+My Name is Parul. (<b>Alias Name : </b>[@puru-sudo](http://puru_sudo.bio.link/) ) use this handle to find me on social platforms. 
 
 - 💬 Ask me about DevOps, Networking.
 - 📫 You can reach me on any social media platform by using @puru-sudo
