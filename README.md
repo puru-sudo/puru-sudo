@@ -21,7 +21,7 @@ My Name is Parul.
   <h3> SCM Tools : <img src = "https://img.shields.io/badge/github-323330?style=for-the-badge&logo=github&logoColor=F7DF1E" align = "center"> </h3>
   <h3> CI/CD Tool : <img src = "https://img.shields.io/badge/jenkins-blue?style=for-the-badge&logo=jenkins&logoColor=black" align = "center"> </h3>
   <h3> Containerization Tools : <img  src ='https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white' align = "center"> , <img  src ='https://img.shields.io/badge/kubernetes-white?style=for-the-badge&logo=kubernetes&logoColor=blue' align = "center"> </h3>
-  <h3> Operating System : <img  src ='https://img.shields.io/badge/github-323330?style=for-the-badge&logo=github&logoColor=F7DF1E' align = "center"> , <img  src ='https://img.shields.io/badge/windows-ED7755?style=for-the-badge&logo=windows&logoColor=white' align = "center"> </h3>
+  <h3> Operating System : <img  src ='https://img.shields.io/badge/linux-323330?style=for-the-badge&logo=linux&logoColor=F7DF1E' align = "center"> , <img  src ='https://img.shields.io/badge/windows-ED7755?style=for-the-badge&logo=windows&logoColor=white' align = "center"> </h3>
   <h3> Configuration Management : Ansible </h3>
   <h3> Cloud Technologies : <img src = "https://img.shields.io/badge/Azure%20cloud-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" align = "center"> </h3>
   <h3> Package Manager : <img src = "https://img.shields.io/badge/helm-20232A?style=for-the-badge&logo=helm&logoColor=61DAFB" align = "center"> </h3> 
