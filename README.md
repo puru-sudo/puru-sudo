@@ -1,7 +1,7 @@
 # Hi Humans
 
 
-My Name is Parul.
+My Name is Parul. (<b>Alias Name : </b>@puru-sudo<img src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F08%2F87%2Fbb%2F0887bb9dae29db6452bc41650406c120.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Famazing-itachi-fanart-in-2021--603200943840573493%2F&tbnid=-ybhAl_TmbHdRM&vet=12ahUKEwjBkb26uoP8AhXpyXMBHYUfDhwQMygBegUIARDoAQ..i&docid=-5dpIHvwfHuUPM&w=736&h=949&q=itachi&ved=2ahUKEwjBkb26uoP8AhXpyXMBHYUfDhwQMygBegUIARDoAQ" width = 5% align = "center">) use this handle to find me on social platforms. 
 
 - 💬 Ask me about DevOps, Networking.
 - 📫 You can reach me on any social media platform by using @puru-sudo
