@@ -3,7 +3,7 @@
 
 My Name is Parul. (<b>Alias Name : </b>[@puru-sudo](http://puru_sudo.bio.link/) ) use this handle to find me on social platforms. 
 
-- 💬 Ask me about DevOps, Networking.
+- 💬 Ask me about DevOps and Cyber Security.
 - 📫 You can reach me on any social media platform by using @puru-sudo
 - 😄 Fun fact: 2+1 = 11 
 
