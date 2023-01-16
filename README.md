@@ -34,5 +34,5 @@ My Name is Parul. (<b>Alias Name : </b>[@puru-sudo](http://puru_sudo.bio.link/) 
 
  <h2>Github Stats <img src="https://aoenexus.com/assets/loader.gif" width= 2% ></h2>
  
- | ![Parul's github stats](https://github-readme-stats.vercel.app/api?username=puru-sudo&theme=dark) | ![Parul's GitHub Streak](https://streak-stats.demolab.com/?user=puru-sudo)](https://git.io/streak-stats) |
+ | ![Parul's github stats](https://github-readme-stats.vercel.app/api?username=puru-sudo&theme=dark) | ![Parul's GitHub Streak](https://streak-stats.demolab.com/?user=puru-sudo&theme=dark)] |
 | --- | --- |
