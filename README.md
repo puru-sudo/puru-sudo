@@ -22,7 +22,7 @@ My Name is Parul. (<b>Alias Name : </b>[@puru-sudo](http://puru_sudo.bio.link/) 
   <h3> Cloud Technologies : <img src = "https://img.shields.io/badge/Azure%20cloud-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" align = "center"> </h3>
   <h3> Package Manager : <img src = "https://img.shields.io/badge/helm-20232A?style=for-the-badge&logo=helm&logoColor=61DAFB" align = "center"> </h3> 
  </div>
-  
+ 
  <br>
  
  
