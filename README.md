@@ -29,3 +29,5 @@ My Name is Parul. (<b>Alias Name : </b>[@puru-sudo](http://puru_sudo.bio.link/) 
  
  | ![Parul's github stats](https://github-readme-stats.vercel.app/api?username=puru-sudo&theme=dark) | ![Parul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=puru-sudo&theme=dark) |
 | --- | --- |
+
+<!--START_SECTION:activity-->
