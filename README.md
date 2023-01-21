@@ -33,4 +33,4 @@ My Name is Parul. (<b>Alias Name : </b>[@puru-sudo](http://puru_sudo.bio.link/) 
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+
