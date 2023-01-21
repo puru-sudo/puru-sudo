@@ -31,12 +31,3 @@ My Name is Parul. (<b>Alias Name : </b>[@puru-sudo](http://puru_sudo.bio.link/) 
 | --- | --- |
 
 
-### :zap: Recent Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/puru-sudo/puru-sudo/issues/2) in [puru-sudo/puru-sudo](https://github.com/puru-sudo/puru-sudo)
-2. 🎉 Merged PR [#2](https://github.com/puru-sudo/puru-sudo/pull/2) in [puru-sudo/puru-sudo](https://github.com/puru-sudo/puru-sudo)
-3. 💪 Opened PR [#2](https://github.com/puru-sudo/puru-sudo/pull/2) in [puru-sudo/puru-sudo](https://github.com/puru-sudo/puru-sudo)
-4. 🗣 Commented on [#1](https://github.com/puru-sudo/puru-sudo/issues/1) in [puru-sudo/puru-sudo](https://github.com/puru-sudo/puru-sudo)
-5. 🎉 Merged PR [#1](https://github.com/puru-sudo/puru-sudo/pull/1) in [puru-sudo/puru-sudo](https://github.com/puru-sudo/puru-sudo)
-<!--END_SECTION:activity-->
-
