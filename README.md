@@ -18,7 +18,7 @@ My Name is Parul. (<b>Alias Name : </b>[@puru-sudo](http://puru_sudo.bio.link/) 
   <h3> Containerization Tools : <img  src ='https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker&logoColor=blue' align = "center"> , <img  src ='https://img.shields.io/badge/kubernetes-1572B6?style=for-the-badge&logo=kubernetes&logoColor=white' align = "center"> </h3>
   <h3> Operating System : <img  src ='https://img.shields.io/badge/linux-323330?style=for-the-badge&logo=linux&logoColor=F7DF1E' align = "center"> , <img  src ='https://img.shields.io/badge/windows-ED7755?style=for-the-badge&logo=windows&logoColor=white' align = "center"> </h3>
   <h3> Configuration Management : <img src = "https://img.shields.io/badge/ansible-323330?style=for-the-badge&logo=ansible&logoColor=F7DF1E" align = "center">, <img  src ='https://img.shields.io/badge/Terraform-ED7755?style=for-the-badge&logo=Terraform&logoColor=white' align = "center"> </h3> </h3>
-  <h3> Cloud Technologies : <img src = "https://img.shields.io/badge/Azure%20cloud-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" align = "center"> </h3>
+  <h3> Cloud Technologies : <img src = "https://img.shields.io/badge/Azure%20cloud-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" align = "center"> , <img src = "https://img.shields.io/badge/AWS%20cloud-20232A?style=for-the-badge&logo=AWS&logoColor=blue" align = "center"> </h3>
   <h3> Package Manager : <img src = "https://img.shields.io/badge/helm-20232A?style=for-the-badge&logo=helm&logoColor=61DAFB" align = "center"> </h3> 
  </div>
  
